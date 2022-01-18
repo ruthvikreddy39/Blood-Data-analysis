@@ -17,3 +17,9 @@ rate to be the independent variable. Discarding other variables, a part of the d
 that was made to fit to a linear regression model is as shown.
 
 ![](images/image2.png)
+
+Whole data is split into testing and training data before fitting to a linear
+regression model. Additionally, the scatter plot of the variables taken with the best-fit line is shown
+below.
+
+![](images/image3.png)
