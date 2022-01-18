@@ -6,4 +6,5 @@ The data-set which I worked on has information all about different attributes re
 attributes that help us decide the health of femoral arteries and evaluate the future heart risk.
 
 The data was collected through collborating with various local hospitals.
-
+To have a rough idea about the data take a look at the foolowing snapshot of the first few rows.
+![](images/image1.png)
