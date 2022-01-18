@@ -44,3 +44,16 @@ usual, the data is split before proceeding. The scatter plot of this binary tabl
 along with the predictions made are shown below.
 
 ![](images/image5.png)
+
+The theory behind clustering done in data using K-means algorithm.
+Fitting this data to a k-means model, we would get an array of under which
+cluster does a corresponding entry of wall shear stress fall into. Each cluster is
+given a distinctive colour with the corresponding centroid marked with a star.
+
+![](images/image6.png)
+
+Through this data analysis we have seen how machine learning techniques
+can be useful in analysing the data of real-world applications, which in our case
+was a data related to a study on femoral artery. This kind of analysis can help
+detect any patterns that would lead to conclusions of risks, effects and causes of
+the diseases.
