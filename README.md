@@ -34,3 +34,13 @@ Again, the independent variable can be considered to be anything, but as an
 example average blood pressure is being taken.
 
 ![](images/image4.png)
+
+The entries for wall shear stress are spread in a close range. To deal with this,
+and to turn the data into binary entries, the median of the entries of the entire
+column is found out. Thereafter, all the values less than this median value are
+labelled as 0 and the values greater as 1.
+This data can now directly be made to fit into a logistic regression model. As
+usual, the data is split before proceeding. The scatter plot of this binary table
+along with the predictions made are shown below.
+
+![](images/image5.png)
