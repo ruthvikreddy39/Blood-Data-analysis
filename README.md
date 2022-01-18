@@ -23,3 +23,14 @@ regression model. Additionally, the scatter plot of the variables taken with the
 below.
 
 ![](images/image3.png)
+
+To predict any patterns in the given data, techniques like classification and
+clustering algorithms can be helpful. Clustering is an unsupervised learning
+method where, the relevant data points are clustered into few groups broadly by
+the learning machine using a few algorithms out of which k-means is well
+known.
+So here, for the data considered, a newly modified data frame is considered.
+Again, the independent variable can be considered to be anything, but as an
+example average blood pressure is being taken.
+
+![](images/image4.png)
